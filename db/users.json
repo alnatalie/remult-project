@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cvncamfly96ynwj2gbee1mlo",
+    "name": "Jane",
+    "password": "$2a$10$/tp1e2HfoClf9MUT9Pgsp.WqFprJFjxXZ5XhIP.kITPUjfXEfNqUi",
+    "admin": true,
+    "createdAt": "2025-03-05T13:06:02.913Z",
+    "providerType": "credentials",
+    "provider": "",
+    "providerAccountId": ""
+  },
+  {
+    "id": "ig401auhgl7y6j3ymslree4g",
+    "name": "Steve",
+    "password": "$2a$10$RAvMuzpEejMbBjrj/zQfKubUqrRmkr9vPaANItXJvdgF9FO9WUORO",
+    "admin": false,
+    "createdAt": "2025-03-05T13:06:03.042Z",
+    "providerType": "credentials",
+    "provider": "",
+    "providerAccountId": ""
+  }
+]
